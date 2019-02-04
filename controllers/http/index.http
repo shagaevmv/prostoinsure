@@ -1,0 +1,4 @@
+GET http://yii2basic.test/currency?page=2
+Accept: application/json
+Authorization: Bearer 100-token
+###
